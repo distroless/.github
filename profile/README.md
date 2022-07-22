@@ -44,5 +44,3 @@ You can learn more about distroless images, apko, and melange from the following
 ## Media
 
 Find the distroless logo, artwork, and brand guidelines in the [distroless/artwork](https://github.com/distroless/artwork) repository. 
-
-![distroless box](distroless-extra.svg)
