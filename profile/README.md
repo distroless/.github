@@ -1,5 +1,5 @@
 
-![distroless logo](distroless-logo.svg)
+![distroless logo](https://github.com/distroless/.github/raw/main/profile/distroless-logo.svg)
 
 A distroless image contains only an application and its runtime dependencies; that is, it is a minimal image without a shell or package manager.
 
