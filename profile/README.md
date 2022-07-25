@@ -29,10 +29,6 @@ COSIGN_EXPERIMENTAL=1 cosign verify distroless.dev/apko | jq
 
 Your output will indicate that the Cosign claims were validated. 
 
-## Contribute a distroless image
-
-If you are interested in contributing a new distroless image, you can base it off of our [template](https://github.com/distroless/template). Please refer to the [Readme](https://github.com/distroless/template#template-repository-for-distroless-images) for further guidance.
-
 ## Learn more
 
 You can learn more about distroless images, apko, and melange from the following articles:
